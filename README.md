@@ -7,6 +7,7 @@ A collection of ready-to-use [Claude](https://claude.ai) skills, grouped by cate
 | Category | Skills |
 |---|---|
 | [**Documents**](documents/) | [PDF Atelier](documents/pdf-atelier/): beautiful themed PDFs with RTL support |
+| [**Git**](git/) | [Commitsmith](git/commitsmith/): scoped one-line commit messages |
 
 ## Quick start
 
